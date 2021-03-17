@@ -1,1 +1,1 @@
-NodeMCU.bin 12 5cfb365b614691c1e071ddc8313ffc97 ../../a9baaf4d3f1bf17b338b8f15b6336bf6fe9cf26b/ESP32_16MB-ota/NodeMCU.bin
+NodeMCU.bin 20 d580ee5d05f93c689c156ad5a17b4f3e ../../a3f5fd363e196d91382deee6b3ba1f45d422ae55/ESP32_16MB-ota/NodeMCU.bin
